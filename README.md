@@ -1,5 +1,5 @@
 # Hello there👋
-🌸 I'm Gulzhamal, an MSc student specializing in Artificial Intelligence at Eötvös Loránd University     
+🌸 I'm Guljamal, an MSc student specializing in Artificial Intelligence at Eötvös Loránd University     
 🙃 From QA to AI — now I'm training neural networks and debugging life one line at a time!  
-💡 I'm passionate about AI, machine learning, deep learning — basically anything that makes machines slightly smarter than me on a Monday morning  
-📚 Currently exploring topics like recommendation systems, reinforcement learning, evolutionary algorithms, NLP, and more  
+💡 I'm passionate about AI, machine learning, deep learning — basically anything that pushes the boundaries of what machines can do 
+📚 Currently exploring topics like reinforcement learning and NLP, also deepening my understanding of ML 
